@@ -1,7 +1,5 @@
 # Natural-Language-Processing
 
-
-
 Assignment-1: 
 - Analyzed speech data using Python, calculating entropy (1.846 bits), cross-entropy, and KL divergence (0.154 bits). <br> 
 - Built Bayesian and logistic regression models for spam detection, achieving 98% accuracy using Python, NLTK, Scikit-learn, and TfidfVectorizer. <br>
